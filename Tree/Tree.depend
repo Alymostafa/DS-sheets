@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545385577 source:e:\college\projects\ds\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1545310264 e:\college\projects\ds\tree\tree.h
+
+1545384767 source:e:\college\projects\ds\tree\tree.c
+	"tree.h"
+
